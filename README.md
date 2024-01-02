@@ -1,7 +1,7 @@
 # Microservices with Spring Boot
 This is a multi-module maven project, demonstrating a typical cloud native micro-service based architechture.
 
-![Screenshot](MicroserviceDiagram.PNG)
+![Screenshot](MicroserviceDiagram.png)
 
 ## Tech stack/Components used for building the architecture
 ```bash
